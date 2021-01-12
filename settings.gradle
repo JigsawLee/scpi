@@ -1,0 +1,3 @@
+rootProject.name='scpi-kt'
+include ':app'
+include ':lib'
